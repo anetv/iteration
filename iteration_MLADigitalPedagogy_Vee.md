@@ -50,7 +50,7 @@ Type: Portfolio assignment
 
  [http://www.wordsinspace.net/mapsmedia/fall2015/requirements-assignments/](http://www.wordsinspace.net/mapsmedia/fall2015/requirements-assignments/)
 
-Shannon Mattern, New School Graduate Studio
+Shannon Mattern, New School Graduate Studio<br />  
 Maps as Media, Spring 2016
 
 In Shannon Mattern’s masters-level Maps as Media course, students turn in a final portfolio of maps—an atlas—that is comprised of five different mapping approaches to one subject. The course asks students to “experiment with a variety of critical mapping tools and methods, from techniques of critical cartography to sensory mapping to time-lining, using both analog and digital approaches.” Students in Mattern’s Maps as Media and Urban Media Archaeology courses have produced atlases on politics in Sri Lanka, the body, counter-maps to NYPD’s “locations of [Muslim] concern,” and every brewery in Brooklyn from 1840 to the present. In this mapping process, students come to know viscerally the limitations of mapping: “not everything is mappable, and not everything belongs on a map” (Mattern, “Map as Metaphor”).
@@ -68,15 +68,14 @@ Type: Syllabus
 
 [https://jentery.github.io/508/](https://jentery.github.io/508/ "Prototyping Texts syllabus")
 
-Jentery Sayers, University of Victoria
-
+Jentery Sayers, University of Victoria<br />    
 Prototyping Texts, Spring 2016
 
 In this masters-level Digital Humanities course, Jentery Sayers invites students to create “design fictions” by prototyping texts. The course pushes against notions of DH as instrumental, ahistorical or non-interpretive, as students perform “interpretation through alteration” of the texts under scrutiny. To alter/prototype texts, students “substitute words, change formats, rearrange poems, remediate fictions, juxtapose images, bend texts, and reconstitute book arts” (“Description”). The format encourages students to take multiple perspectives on one “-ism” they choose to research during the term and share those perspectives with each other and a final portfolio. Sayers notes: “This seminar is project-based, meaning you will iteratively develop your own research in response to a series of prompts” (“Format”). Students approach their “-isms” through metadata, plain text/markup, typography, forms, glitch, and repair. Student examples include handmade books, overlapping Word documents, twitterbots, and even [a knitted interpretation of Queneau’s One Hundred Thousand Billion Poems](https://508prototypepage.wordpress.com/2016/04/06/week-12-knit-it/)
 
-Student examples: http://eltiffster.github.io/ActNatural/? https://508prototypepage.wordpress.com/2016/04/13/my-oulipofolio-a-summary-of-prototypes/
-http://www.itisnotthesea.com/
-https://drive.google.com/file/d/0B04Dne-SdKVlVVVYSjNjZGpjM2s/view
+Student examples: http://eltiffster.github.io/ActNatural/?<br />  https://508prototypepage.wordpress.com/2016/04/13/my-oulipofolio-a-summary-of-prototypes/<br />
+http://www.itisnotthesea.com/<br />
+https://drive.google.com/file/d/0B04Dne-SdKVlVVVYSjNjZGpjM2s/view<br />
 
 
 ####“Words and Images ‘Notes’ and ‘Bios’”
@@ -86,7 +85,7 @@ Type: Unit with readings and assignments
 
 ['Notes' and 'Bios' Unit for the Words and Images Course](iteration_WordsAndImagesBios_Banazek.docx)
 
-Kerry Banazek, University of Pittsburgh
+Kerry Banazek, University of Pittsburgh<br />
 Words and Images, Summer 2015
 
 In “Words and Images,” an undergraduate literature course, Kerry Banazek asks students to introduce themselves with six iterations of biographies: a paragraph, a sentence, five words, punctuation marks only, four emojis, then unlimited emojis. This exercise kicks off the course and a unit focused on expressing meaning and affect in both image and word. Later in the term, students translate poems into emoji and invent visualization methods for tracking patterns in poems. These iterative translation exercises help students develop dexterity in producing meaningful images and illustrative words.
@@ -99,7 +98,7 @@ Type: Weekly exercises
 
 [Exercises in Style, nine weekly exercises](iteration_ExercisesInStyle_Brooke.docx)
 
-Collin Brooke, Syracuse University
+Collin Brooke, Syracuse University<br />
 Exercises in Style, Spring 2015
 
 Collin Brooke’s undergraduate writing course was explicitly modeled on Queneau’s Exercises in Style. Students began by designing a scenario that echoed Queneau’s encounter on the Paris Metro and then each week rewrote it according to different constraints, always sharing and discussing their work, and sometimes working on each other’s scenarios. Although the exercises don’t explicitly feature digital approaches, Brooke designed them to be “procedural in a way that's analogous to iterating code, just the product is different.” Brooke says, “my favorite thing about iteration is that offers a path out of the Scylla-Charybdis of either revising toward perfection or "taking risks" (personal communication).
@@ -116,17 +115,17 @@ Type: Syllabus
 
 [http://leonardoflores.net/3238/](http://leonardoflores.net/3238/ "Digital Creative Writing Course")
 
-Leonardo Flores, University of Puerto Rico: Mayagüez
+Leonardo Flores, University of Puerto Rico: Mayagüez<br />
 Digital Creative Writing, Spring 2016
 
 Leonardo Flores’s Digital Creative Writing course is a rich resource for iterative digital composition, in particular his approach to Twitterbots and remixes of Nick Montfort’s Taroko Gorge poem and Christopher Strachey’s Love Letter Generator.
 The course asks students to compose in hypertext, Twine, Netprov, kinetic typography, memes, Twitterbots, and remixes of Taroko Gorge—the last of which are most pertinent to this “iteration” keyword. He calls these genres “generative writing,” suggesting that it is writing both generated and generative. Student Twitterbots generate emoji zoos, deliver bad news, and make suggestions for dinner. Flores has a good step-by-step description for Taroko Gorge remixing. A nice pairing with this syllabus is James Brown, Jr.’s “Writing with machines: data and process in Taroko Gorge,” which offers a theoretical perspective on Taroko Gorge remixes, with reference to historical precedence in Oulipo and cut-ups.
 
-Week 9: Bots and Generative Writing:
-http://leonardoflores.net/3238/week-9-bots-and-generative-writing/
-Week 16: Creative Coding http://leonardoflores.net/3238/week-16-creative-coding/
-Taroko Gorge Remix: http://leonardoflores.net/3238/diy-taroko-gorge-remix/
-Student Twitterbots: @atinyzoo @marianjg7 @_Samsara @BadNewsLetter @ChezGenerate @NetflixxChill
+Week 9: Bots and Generative Writing:<br />
+http://leonardoflores.net/3238/week-9-bots-and-generative-writing/<br />
+Week 16: Creative Coding http://leonardoflores.net/3238/week-16-creative-coding/<br />
+Taroko Gorge Remix: http://leonardoflores.net/3238/diy-taroko-gorge-remix/<br />
+Student Twitterbots: @atinyzoo @marianjg7 @_Samsara @BadNewsLetter @ChezGenerate @NetflixxChill<br />
 Taroko Gorge remixes: http://collection.eliterature.org/3/collection-taroko.html
 
 
@@ -138,12 +137,12 @@ Type: Assignment
 
 [http://courses.rachaelsullivan.com/248/internet-poetry.html](iteration_InternetPoetryScreenshot_Sullivan.png "Internet Poetry Assignment")
 
-Rachael Sullivan, St. Joseph’s University
+Rachael Sullivan, St. Joseph’s University<br />
 Information Overload: Literature and Contemporary Life, University of Wisconsin-Milwaukee, Fall 2013
 
 With inspiration and theoretical background from Kenneth Goldsmith’s “uncreative writing,” Rachael Sullivan asked her undergraduate students in “Information Overload: Literature and Contemporary Life” to compose poetry from found texts online, imitating a popular image-macro form. She provides an excellent list of examples of what she calls “Internet literature,” where “Everything on the list either [1] responds to internet culture as a theme, [2] uses features of the internet (such as hyperlinking) as literary techniques, or [3] depends on the internet as a distribution platform” (“Assignment”). Through the poetry assignment, students both considered and dealt with information overload online.
 
-Syllabus: http://courses.rachaelsullivan.com/248/schedule.html  
+Syllabus: http://courses.rachaelsullivan.com/248/schedule.html<br />   
 Student examples: [1](https://www.dropbox.com/sh/2v047elo4hdc6k3/AACAFKZBirejjwdnfOMthSmpa?dl=0&preview=samples.png), [2](https://www.dropbox.com/sh/2v047elo4hdc6k3/AABsHKVPtVNlBGAaFER_WdbOa/UWMIL_2139_1_ENGLISH_248_SEC002_42943%20-%20Scheibel%20Staci-%20Dec%203%2C%202013%20441%20PM%20-%20onlinepoetry.pdf?dl=0)
 
 ###Iteration for improvement
@@ -155,12 +154,13 @@ Type: Assignment sequence
 
 ![Lauren Rae Hall's Composing Digital Media course](iteration_ComposingDigitalMediaScreenshot_Hall.png)
 
-[Gabriel Peters-Lazaro’s “60 second feeling”](https://www.hastac.org/blogs/gabepl/2014/02/13/14-60-second-feeling-day-one-exercise-learning-media)
-Trisha Campbell’s “Emotion in 60 seconds” (currently unavailable)
-[Lauren Rae Hall’s “Capture a feeling in sound”](https://composedm2016.wordpress.com/mini-challenges/)
-[Lauren Rae Hall’s Audio Cut-Up Assignment](https://composedm2016.files.wordpress.com/2016/01/hall_engcmp0610s_cdm_audiocutup1.pdf)
-Lauren Rae Hall, University of Pittsburgh
-Composing Digital Media: Out of Time, Spring 2016
+[Gabriel Peters-Lazaro’s “60 second feeling”](https://www.hastac.org/blogs/gabepl/2014/02/13/14-60-second-feeling-day-one-exercise-learning-media)<br />
+Trisha Campbell’s “Emotion in 60 seconds” (currently unavailable)<br />
+[Lauren Rae Hall’s “Capture a feeling in sound”](https://composedm2016.wordpress.com/mini-challenges/)<br />
+[Lauren Rae Hall’s Audio Cut-Up Assignment](https://composedm2016.files.wordpress.com/2016/01/hall_engcmp0610s_cdm_audiocutup1.pdf)<br />
+
+Lauren Rae Hall, University of Pittsburgh<br />
+Composing Digital Media: Out of Time, Spring 2016<br />
 based on assignments by Trisha Campbell, Salisbury University, and Gabriel Peters-Lazaro, University of Southern California
 
 Lauren Rae Hall’s Audio cut-up sequence is a great example of how iteration can support learning a platform prior to larger assignments. A brief assignment get students exploring a new media composition platform, and is itself an iteration: based on Trisha Campbell’s “Emotion in 60 seconds” and Gabriel Peters-Lazaro’s “60 second feeling.” Peters-Lazaro’s version assigns groups of students a feeling such as elation or consternation and asks them to compose a 60 second shot in video, in class, and then share it to have their peers guess at the emotion. Campbell’s adaptation assigns students emotions and has them edit music, speech and sound files in Audacity to reflect that emotion. Hall’s version of this in-class assignment, based on Campbell’s, leads into a larger, Burroughs-inspired “Audio Cut-up” project, which asks students to make a “cut-up” sound and speech and music to create a story, poem, song, argument, or experiment in evoking emotion. The early in-class assignment is an early iteration--not meant for revision, but instead for preparing students for deeper engagement with a composition platform and paradigm.
@@ -174,7 +174,7 @@ Type: Syllabus
 
 [The Digital and the Humanities Syllabus](iteration_TheDigitalAndTheHumanitiesSyllabus_Langmead.pdf)
 
-Alison Langmead, University of Pittsburgh
+Alison Langmead, University of Pittsburgh<br />
 The Digital and the Humanities, Fall 2015
 
 In this PhD-level course, offered through the School of Library and Information Science, Alison Langmead borrows terms and processes from software development to help students “iterate” and hone their research projects. The course objective is to introduce students to the analytic digital techniques that DH offers and apply them to their own research domain. Students begin with hypotheses, produce a captaset using digital tools, and present and refine their projects based on class feedback. The syllabus states, “you will be asked to expose your iterative research process in this seminar by producing multiple versions of your project, providing self-assessments, and by submitting your work frequently to peer review. […] Each iteration will include a composition (in any appropriate, comprehensible format) that provides me with both your project deliverables, your self-evaluations, and a summary of your peers’ feedback.”
@@ -188,15 +188,16 @@ Type: Assignment
 
 [Social Media Bios assignment](http://spelmanwrites384.tumblr.com/post/142041620452/week-11)
 
-Alexandria Lockett, Spelman College
+Alexandria Lockett, Spelman College<br />
 Rhetoric of Advertising, Spring 2016
 
 This assignment asks students to produce three iterations of a public biography, combine them, and respond to each other’s work as “creative consultants.” It is part of Alexandria Lockett’s “Rhetoric of Advertising” course, which moves beyond a traditional, analytical frame and asks students to think about “strategic communication” and how they “brand” and present themselves online. Lockett aims to help them with strategic and proactive self-presentation in “a space where race, gender, and geography mediate students' relationship to privacy and their perception of legitimate public displays of 'professional identity’” (personal communication, May 18, 2016). About this assignment, she writes, “Pedagogically, the three-version bio and final version affects the ‘final product,’ which is to integrate the biography in one or two ePortfolios [linked below], which are accompanied by critical reflections about their experiences implementing a strategy, as well as how the media influences their perception of 21st century advertising. The bio-writing is a way to socialize them into ‘editing the self’ and recognizing the affordances available to them through perceiving writing as inherently artistic and technical” (personal communication, May 16, 2016).
 
-[ePortfolio Social Media Profile assignment that builds on this assignment](https://docs.google.com/document/d/1Oc-uHjp_Q0oiOHWBhve5Aj6N8dIuwx9YL3tKtYLWAaw/edit)
-[Course syllabus](https://docs.google.com/document/d/1ffzirvXnQbF2wqyFfb75_63drMLw_EpsD8Add4b2o50/edit)
-Student examples: [Alexandra Calloway profile](https://www.linkedin.com/in/alexandra-calloway-5094549b) and her [About.me](https://about.me/alexandracalloway)
-[Fennella Miller](https://www.linkedin.com/in/fennella-miller-08b567a5)
+[ePortfolio Social Media Profile assignment that builds on this assignment](https://docs.google.com/document/d/1Oc-uHjp_Q0oiOHWBhve5Aj6N8dIuwx9YL3tKtYLWAaw/edit)<br />
+[Course syllabus](https://docs.google.com/document/d/1ffzirvXnQbF2wqyFfb75_63drMLw_EpsD8Add4b2o50/edit)<br />
+Student examples:<br />  
+[Alexandra Calloway profile](https://www.linkedin.com/in/alexandra-calloway-5094549b) and her [About.me](https://about.me/alexandracalloway)<br />
+[Fennella Miller](https://www.linkedin.com/in/fennella-miller-08b567a5)<br />
 [Mikaela Smith](https://www.linkedin.com/in/mikaela-smith-a4a56711a)
 
 
@@ -208,7 +209,7 @@ Type: Portfolio Assignment
 
 [Midterm Blog Portfolio assignment](https://www.dropbox.com/s/20d7ul3ff1br6bu/MidtermBLOGPortfolioAssignment.pdf?dl=0)
 
-Annette Vee, University of Pittsburgh
+Annette Vee, University of Pittsburgh<br /> 
 Uses of Literacy, Spring 2016
 
 I’ve taught with blogs for over a decade, and the pattern I’ve used for the last five years in my undergraduate courses is this: I split students into two groups, and each week one group posts questions on the class blog and the other group responds. Then they alternate, providing a regular routine to the online discussion. Rather than revise, they iterate by just posting/responding again the next week. For undergraduate classes, students turn in midterm and final portfolios to be assessed, which allow students to scrap the ill-formed and early stuff. The blogs mean they get authentic feedback from their peers about their writing and interpretations of the course material, I get ideas to start in-class discussion and tips on what is challenging them, and quieter students get a space to engage in an asynchronous, low-stakes way. Student course evaluations often cite the course blog as an important space for thinking, learning to write, and bonding with their classmates.
