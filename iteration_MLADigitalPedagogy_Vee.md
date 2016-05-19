@@ -69,6 +69,7 @@ Type: Syllabus
 [https://jentery.github.io/508/](https://jentery.github.io/508/ "Prototyping Texts syllabus")
 
 Jentery Sayers, University of Victoria
+
 Prototyping Texts, Spring 2016
 
 In this masters-level Digital Humanities course, Jentery Sayers invites students to create “design fictions” by prototyping texts. The course pushes against notions of DH as instrumental, ahistorical or non-interpretive, as students perform “interpretation through alteration” of the texts under scrutiny. To alter/prototype texts, students “substitute words, change formats, rearrange poems, remediate fictions, juxtapose images, bend texts, and reconstitute book arts” (“Description”). The format encourages students to take multiple perspectives on one “-ism” they choose to research during the term and share those perspectives with each other and a final portfolio. Sayers notes: “This seminar is project-based, meaning you will iteratively develop your own research in response to a series of prompts” (“Format”). Students approach their “-isms” through metadata, plain text/markup, typography, forms, glitch, and repair. Student examples include handmade books, overlapping Word documents, twitterbots, and even [a knitted interpretation of Queneau’s One Hundred Thousand Billion Poems](https://508prototypepage.wordpress.com/2016/04/06/week-12-knit-it/)
