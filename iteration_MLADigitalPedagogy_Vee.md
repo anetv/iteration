@@ -55,10 +55,10 @@ Maps as Media, Spring 2016
 
 In Shannon Mattern’s masters-level Maps as Media course, students turn in a final portfolio of maps—an atlas—that is comprised of five different mapping approaches to one subject. The course asks students to “experiment with a variety of critical mapping tools and methods, from techniques of critical cartography to sensory mapping to time-lining, using both analog and digital approaches.” Students in Mattern’s Maps as Media and Urban Media Archaeology courses have produced atlases on politics in Sri Lanka, the body, counter-maps to NYPD’s “locations of [Muslim] concern,” and every brewery in Brooklyn from 1840 to the present. In this mapping process, students come to know viscerally the limitations of mapping: “not everything is mappable, and not everything belongs on a map” (Mattern, “Map as Metaphor”).
 
-Maps as Media course website: http://www.wordsinspace.net/mapsmedia/fall2015/
-Student examples: http://www.wordsinspace.net/mapsmedia/fall2015/2016/04/03/final-projects/
-Earlier versions of class “Urban Media Archaeology” student projects: http://www.wordsinspace.net/wordpress/2013/12/18/mapping_gyros/
-Mattern’s reflection on Map as Metaphor, including discussion of this course http://www.wordsinspace.net/wordpress/2016/03/22/map-as-metaphor-center-for-book-arts/
+Maps as Media course website: http://www.wordsinspace.net/mapsmedia/fall2015/<br />
+Student examples: http://www.wordsinspace.net/mapsmedia/fall2015/2016/04/03/final-projects/<br />
+Earlier versions of class “Urban Media Archaeology” student projects:<br />  http://www.wordsinspace.net/wordpress/2013/12/18/mapping_gyros/<br />
+Mattern’s reflection on Map as Metaphor, including discussion of this course<br />  http://www.wordsinspace.net/wordpress/2016/03/22/map-as-metaphor-center-for-book-arts/
 
 
 ####Prototyping Texts
@@ -209,7 +209,7 @@ Type: Portfolio Assignment
 
 [Midterm Blog Portfolio assignment](https://www.dropbox.com/s/20d7ul3ff1br6bu/MidtermBLOGPortfolioAssignment.pdf?dl=0)
 
-Annette Vee, University of Pittsburgh<br /> 
+Annette Vee, University of Pittsburgh<br />
 Uses of Literacy, Spring 2016
 
 I’ve taught with blogs for over a decade, and the pattern I’ve used for the last five years in my undergraduate courses is this: I split students into two groups, and each week one group posts questions on the class blog and the other group responds. Then they alternate, providing a regular routine to the online discussion. Rather than revise, they iterate by just posting/responding again the next week. For undergraduate classes, students turn in midterm and final portfolios to be assessed, which allow students to scrap the ill-formed and early stuff. The blogs mean they get authentic feedback from their peers about their writing and interpretations of the course material, I get ideas to start in-class discussion and tips on what is challenging them, and quieter students get a space to engage in an asynchronous, low-stakes way. Student course evaluations often cite the course blog as an important space for thinking, learning to write, and bonding with their classmates.
@@ -218,11 +218,15 @@ I’ve taught with blogs for over a decade, and the pattern I’ve used for the 
 
 
 ##RELATED MATERIALS
-•	Brock, Kevin. "git as Site for Distributed and Iterative Rhetorical Action.” CCCC 2016. Presentation. <https://www.penflip.com/brockoleur/git-as-site-for-distributed-and-iterative-rhetorical-action>  slide deck here <https://docs.google.com/presentation/d/15pTuHvoINaOXsObX8NxzWUCNOAQaE-N3a4vzZHrL-94/edit#slide=id.g1297bf2e8c_0_54>
-•	Burgess, Joel [from Bethesda Games]. How We Used Iterative Level Design to Ship Skyrim and Fallout 3. GDC 2014 [Game Developer’s Conference]: January 22, 2016. YouTube video. <https://www.youtube.com/watch?v=PhW8CY8XkFg>
-•	Edmond, Jacob. “Commentary on Iterations [special issue].” Jacket 2 (2013): n. pag. Web. <http://jacket2.org/commentary/jacob-edmond>
-•	Goldsmith, Kenneth. “It’s Not Plagiarism. In the Digital Age, It’s ‘Repurposing.’” The Chronicle of Higher Education 11 Sept. 2011. Web. <http://chronicle.com/article/Uncreative-Writing/128908>
-•	“Daily Create,” part of the Digital Storytelling 106 class at University of Mary Washington: http://daily.ds106.us/about/ And assignment bank: http://assignments.ds106.us/
+Brock, Kevin. "git as Site for Distributed and Iterative Rhetorical Action.” CCCC 2016. Presentation. <https://www.penflip.com/brockoleur/git-as-site-for-distributed-and-iterative-rhetorical-action>  slide deck here <https://docs.google.com/presentation/d/15pTuHvoINaOXsObX8NxzWUCNOAQaE-N3a4vzZHrL-94/edit#slide=id.g1297bf2e8c_0_54>
+
+Burgess, Joel [from Bethesda Games]. How We Used Iterative Level Design to Ship Skyrim and Fallout 3. GDC 2014 [Game Developer’s Conference]: January 22, 2016. YouTube video. <https://www.youtube.com/watch?v=PhW8CY8XkFg>
+
+Edmond, Jacob. “Commentary on Iterations [special issue].” Jacket 2 (2013): n. pag. Web. <http://jacket2.org/commentary/jacob-edmond>
+
+Goldsmith, Kenneth. “It’s Not Plagiarism. In the Digital Age, It’s ‘Repurposing.’” The Chronicle of Higher Education 11 Sept. 2011. Web. <http://chronicle.com/article/Uncreative-Writing/128908>
+
+“Daily Create,” part of the Digital Storytelling 106 class at University of Mary Washington: http://daily.ds106.us/about/ And assignment bank: http://assignments.ds106.us/
 
 
 ##WORKS CITED
